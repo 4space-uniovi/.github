@@ -44,7 +44,7 @@ En nuestros proyectos, trabajamos con una variedad de tecnologías y herramienta
 
 Si tienes alguna duda o quieres unirte a **4Space**, puedes contactarnos a través de:
 
-- **Email**: [contacto@4space.org](mailto:team@4space.com)
+- **Email**: [team@4space.es](mailto:team@4space.es)
 - **Redes sociales**: [Instagram](https://instagram.com/4space.uniovi), [LinkedIn](https://linkedin.com/4space.uniovi)
 
 ¡Te esperamos para hacer despegar juntos la tecnología espacial en Asturias! 🌌
